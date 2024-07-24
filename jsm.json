@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg.jar",
+	"spider":"https://gitee.com/zhou202311/by/raw/master/pg.jar",
 	"sites":[
 		{
 			"key":"Youtube",
